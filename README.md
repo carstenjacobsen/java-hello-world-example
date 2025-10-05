@@ -1,7 +1,7 @@
 # Java Hello World Example
 
-### Compile:
+#### Compile:
 mvn compile
 
-### Execute:
+#### Execute:
 mvn exec:java
