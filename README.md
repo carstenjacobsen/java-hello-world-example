@@ -1,7 +1,7 @@
 # Java Hello World Example
 
-Compile:
+### Compile:
 mvn compile
 
-Execute:
-mvn exec:java -Dexec.mainClass="com.example.App"
+### Execute:
+mvn exec:java
